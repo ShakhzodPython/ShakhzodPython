@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShakhzodPython
 - 👀 I’m interested in DevOps
-- 🌱 I’m currently learning Linux 
+- 🌱 I’m currently learning CI/CD
 
 <!---
 ShakhzodPython/ShakhzodPython is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
